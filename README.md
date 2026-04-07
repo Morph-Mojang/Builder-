@@ -8,5 +8,5 @@
 [Builder+ Leaked](https://techspertgit2.github.io/BuilderPlusLeaked)
 
 ## Links:
-[My Wiki](https://new.express.adobe.com/webpage/zKo3Dqd0IBZk7)
-[Issue Tracker/Request Feature](https://github.com/morph-mojang/Builder-/issues)
+- [My Wiki](https://new.express.adobe.com/webpage/zKo3Dqd0IBZk7)
+- [Issue Tracker/Request Feature](https://github.com/morph-mojang/Builder-/issues)
