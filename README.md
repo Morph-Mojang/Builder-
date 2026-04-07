@@ -1,5 +1,6 @@
 [**PLEASE READ THE LICENCE**](https://github.com/Morph-Mojang/Builder-/blob/main/LICENCE)
 
+[(Click To Report Bug Or Request A Feature)](https://github.com/morph-mojang/Builder-/issues)
 ## About Builder+
 
 ## Other Repositrys:
