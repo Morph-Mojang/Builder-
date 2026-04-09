@@ -27,6 +27,6 @@
 - [Issue Tracker/Request Feature](https://github.com/morph-mojang/Builder-/issues)
 - [Builder+ On Modrinth](https://modrinth.com/project/cUq9U3DK)
 
-## Other Repositrys:
+## Other Websites:
 (These Repositrys Are Known And Allowed By Me All Credit To Me Aswel For Builder+)
 - [Builder+ Leaked](https://techspertgit2.github.io/BuilderPlusLeaked)
