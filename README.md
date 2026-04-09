@@ -1,5 +1,4 @@
-# [**PLEASE READ THE LICENCE**](https://github.com/Morph-Mojang/Builder-/blob/main/LICENCE)
-
+# 
 # Adding
 - New Foods, Drinks And Wood Types (In Production)
 - New Flowers
