@@ -1,4 +1,4 @@
-[**PLEASE READ THE LICENCE**](https://github.com/Morph-Mojang/Builder-/blob/main/LICENCE)
+# [**PLEASE READ THE LICENCE**](https://github.com/Morph-Mojang/Builder-/blob/main/LICENCE)
 
 # About Builder+
 ## Other Repositrys:
