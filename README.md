@@ -2,9 +2,10 @@
 
 # Adding
 - New Foods, Drinks And Wood Types (In Production)
+- New Flowers
 - Hidden Light Sources
-- Compacted Items
 - More Biomes
+- Compacted Items
 
 # Added
 ## 1st Release
