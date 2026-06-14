@@ -1,10 +1,9 @@
                      
 # Adding
-- New Foods, Drinks And Wood Types (In Production)
-- New Flowers
+- New Foods, Drinks And Wood Types **(Released)**
+- New Flowers **(In Production)**
 - Hidden Light Sources
 - More Biomes
-- Compacted Items
 
 # Added
 ## 1st Release
@@ -26,8 +25,7 @@
 - All The Wood Types Come With (Trapdoor, Log, Planks, Door, Slab, Fence, Fence Gate, Button, Pressure Plate, Stripped Log And Leaves)
 
 ## 4th Release (In Production)
-- 
-
+- Lavendar
 
 # Links:
 - [Issue Tracker/Request Feature](https://github.com/morph-mojang/Builder-/issues)
