@@ -19,7 +19,7 @@
 - Crafting Recipes (Ghost Shard, And Grass, Stone, Dirt Ghost Blocks, etc)
 (TESTED 3 TIMES)
 
-## 3rd Release (In Production)
+## 3rd Release (In Production) planning to be released in june/july
 - Items (Coffee)
 - Recipes (For Coffee And All For Water Wood)
 - Wood Types (Water Wood)
