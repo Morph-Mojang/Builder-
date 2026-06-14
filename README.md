@@ -26,6 +26,7 @@
 
 ## 4th Release (In Production)
 - Lavendar
+- Gloom
 
 # Links:
 - [Issue Tracker/Request Feature](https://github.com/morph-mojang/Builder-/issues)
