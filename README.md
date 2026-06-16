@@ -1,8 +1,8 @@
                      
 # Adding
 - New Foods, Drinks And Wood Types **(Released)**
-- New Flowers **(In The Queue)**
-- Hidden Light Sources (In Production)
+- New Flowers **(20th June)**
+- Hidden Light Sources **(In Production)**
 - More Biomes
 
 # Added
@@ -24,7 +24,7 @@
 - Wood Types (Water Wood)
 - All The Wood Types Come With (Trapdoor, Log, Planks, Door, Slab, Fence, Fence Gate, Button, Pressure Plate, Stripped Log And Leaves)
 
-## 4th Release (In The Queue)
+## 4th Release (Avalable On 20th June)
 - Lavendar
 - Gloom
 
