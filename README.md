@@ -24,7 +24,7 @@
 - Wood Types (Water Wood)
 - All The Wood Types Come With (Trapdoor, Log, Planks, Door, Slab, Fence, Fence Gate, Button, Pressure Plate, Stripped Log And Leaves)
 
-## 4th Release (Avalable On 20th June)
+## 4th Release (20th June)
 - Lavendar
 - Gloom
 
